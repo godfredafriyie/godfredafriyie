@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Godfred Junior Afriyie  
 
-🎯 **Tech Project Manager | Scrum Master | Agile Practitioner | Data & Tech Enthusiast**  
+**Tech Project Manager | Scrum Master | Agile Practitioner | Data & Tech Enthusiast**  
 
 I help teams **deliver projects on time, on budget, and with impact** by combining:
-- 📌 **Project Management expertise** (Agile, Scrum, Waterfall, Hybrid)  
-- 🛠️ **Technical background** in Technology & Data Science (M.S. Technology, Data Science Certificate)  
+- **Project Management expertise** (Agile, Scrum, Waterfall, Hybrid)  
+- **Technical background** in Technology & Data Science (M.S. Technology, Data Science Certificate)  
 - 💡 **Hands-on project portfolio**: SaaS app pilots, event launches, and process improvement initiatives  
 
 ---
