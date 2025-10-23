@@ -1,5 +1,4 @@
-# Project Manager | Hybrid, Agile & SaaS Delivery Specialist | PMP (In Progress) | Delivering High-Value Projects with $30M+ Profit Impact & $2M+ Portfolio Oversight
-
+## Godfred Junior Afriyie |Project Manager|
 ## Summary
 PMP-certified Project Management Professional with over 6 years of experience leading high-impact projects across financial services, creative industries, and U.S. manufacturing. I have a proven track record of driving Agile delivery, SaaS transformation, and cross-functional execution for enterprise-scale initiatives. Notable projects include leading $32M digital programs at Standard Bank, managing over $1M+ event portfolios at Afrohive, and spearheading operations excellence projects for Grupo Bimbo USA (Fortune Global 500; $20B+ enterprise).  [oai_citation:0‡Godfred Afriyie Jr Resume.pdf](sediment://file_00000000e7e861f58af968de34e52e32)
 
