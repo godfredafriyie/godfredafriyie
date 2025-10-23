@@ -32,8 +32,7 @@ Project Manager | Budget $1M | Team 15+|
 **FUGO Fuel Management & Payments SaaS (Freelance, 2025–Current)**  
 Freelance Project Manager
 
-## Commercial Digital Banking Transformation – SaaS Enablement
-**Standard Bank Ghana (2020)**  
+**Commercial Digital Banking Transformation – SaaS Enablement** , **Standard Bank Ghana (2020)**  
 Assistant Project Manager | Portfolio $32M | Team 20+|
 
 ## Certifications
