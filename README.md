@@ -1,53 +1,50 @@
-# 👋 Hi, I’m Godfred Junior Afriyie  
+# Project Manager | Hybrid, Agile & SaaS Delivery Specialist | PMP (In Progress) | Delivering High-Value Projects with $30M+ Profit Impact & $2M+ Portfolio Oversight
 
-**Tech Project Manager | Scrum Master | Agile Practitioner | Data & Tech Enthusiast**  
+## Summary
+PMP-certified Project Management Professional with over 6 years of experience leading high-impact projects across financial services, creative industries, and U.S. manufacturing. I have a proven track record of driving Agile delivery, SaaS transformation, and cross-functional execution for enterprise-scale initiatives. Notable projects include leading $32M digital programs at Standard Bank, managing over $1M+ event portfolios at Afrohive, and spearheading operations excellence projects for Grupo Bimbo USA (Fortune Global 500; $20B+ enterprise).  [oai_citation:0‡Godfred Afriyie Jr Resume.pdf](sediment://file_00000000e7e861f58af968de34e52e32)
 
-I help teams **deliver projects on time, on budget, and with impact** by combining:
-- **Project Management expertise** (Agile, Scrum, Waterfall, Hybrid)  
-- **Technical background** in Technology & Data Science (M.S. Technology, Data Science Certificate)  
-- 💡 **Hands-on project portfolio**: SaaS app pilots, event launches, and process improvement initiatives  
+## Technical Skills
 
----
+**Project Management & Methodologies**  
+Agile | Scrum | Waterfall | Hybrid Delivery | PMBOK | Sprint Planning | Change Control | Risk Management | Stakeholder Engagement | Process Optimization
 
-## 🚀 About Me  
-- 📚 Currently pursuing **M.S. in Technology + Data Science Certificate** at Eastern Illinois University  
-- 🎓 Certified in **Google Project Management**, **Scrum (CSM, PSM I in progress)**, **Lean Six Sigma Green Belt**, and more  
-- 📊 Experienced in **Asana, Jira, Smartsheet, Trello, Gantt Charts, Risk/Comms Plans**  
-- 🌍 International experience in **Banking, Food Manufacturing, Events, and SaaS startups**  
-- 🔄 Passionate about **Agile delivery, team collaboration, and building scalable processes**  
+**Tools & Software**  
+Jira | Asana | Smartsheet | Trello | Microsoft Project | Confluence | Oracle Database | SAP | Slack | Notion | Google Workspace | Microsoft 365
 
----
+**Technical Skills**  
+AWS Cloud | Python | Data Science | SQL | Oracle Autonomous Database | Data Visualization | Big Data Analytics | Business Intelligence (BI)
 
-## 🛠️ Skills & Tools  
-- **Project Management**: Agile, Scrum, Kanban, Waterfall, Hybrid  
-- **PM Tools**: Jira, Asana, Trello, Smartsheet, MS Project, Notion  
-- **Data & Tech**: SQL, Python, Tableau, Excel, Big Data Concepts  
-- **Collaboration**: RACI Charts, Stakeholder Mapping, Risk Management, Communication Plans  
+**Operations & Continuous Improvement**  
+Lean Six Sigma | Quality Control | KPI Tracking | Root Cause Analysis | Operations Excellence | Digital Transformation | Performance Dashboards
 
----
+## Professional Projects (non-technical)
+**Outmosphere Music & Community Festival – Sponsorship Expansion (Afrohive, 2023)**  
+Project Manager | Budget $1M | Team 14
 
-## 📂 Featured Projects  
-🔹 [AfriStays App Launch (Champaign Pilot)](link) – SaaS project management lab with **charter, WBS, Gantt, Kanban, Budget & Risk Plans**  
-🔹 [FUGO Fuel App](link) – Tech PM portfolio project (charter, roadmap, execution tracking)  
-🔹 [Outmosphere Music Festival 2023–2024](link) – Event project coordination → Assistant PM → Junior PM growth story  
-🔹 [Kimoji Event Launch](link) – End-to-end assistant PM experience in event planning & delivery  
+**Outmosphere Festival – Sustainability Integration (Afrohive, 2022)**  
+Assistant Project Manager | Budget $1M
 
----
+**Full portfolio:** https://sweet-lettuce-f79.notion.site/Godfred-Junior-Afriyie-s-Project-Portfolio-256e5a4e7f3280688ce5f179258913ed
 
-## 📈 Certifications  
-- 🎓 **Google Project Management Professional Certificate**  
-- ✅ **Certified ScrumMaster (CSM)** | *PSM I in progress*  
-- ✅ **Lean Six Sigma Green Belt**  
-- 🎓 **Agile Project Management (Microsoft / Simplilearn)**  
-- 📚 Harvard Project Management Certificate (in progress)  
+## Technical Projects
+**FUGO Fuel Management & Payments SaaS (Freelance, 2025–Current)**  
+Freelance Project Manager
 
----
+## Technical Labs & Artifacts
+**Python** – Python codes here  
+**SQL** – SQL codes here
 
-## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/godfredjuniorafriyie)  
-- 📂 [Portfolio (Notion / GitHub Projects)](link)  
-- 📧 [Email](mailto:your.email@example.com)  
+## Commercial Digital Banking Transformation – SaaS Enablement
+**Standard Bank Ghana (2020)**  
+Assistant Project Manager | Portfolio $32M | Team 20+  [oai_citation:1‡Godfred Afriyie Jr Resume.pdf](sediment://file_00000000e7e861f58af968de34e52e32)
 
----
+## Resume
+PDF version attached in this repository.  
+Recommended filename: `Godfred_Afriyie_Jr_Resume.pdf`.
 
-✨ *“Bridging strategy, people, and technology to deliver meaningful results.”*  
+## Certifications
+PMP (In Progress) | Certified ScrumMaster (CSM) | Microsoft Agile Project Management | Google Project Management Professional | Lean Six Sigma Green Belt | Simplilearn Agile Scrum Master | Oracle Autonomous Database Professional (Scheduled) | AWS Cloud Practitioner (In Progress)
+
+## Education
+**Eastern Illinois University** — Master of Science in Technology & Management; Graduate Certificate in Data Science & Security  
+**University of Ghana** — Bachelor of Arts in Information Studies with Political Science
