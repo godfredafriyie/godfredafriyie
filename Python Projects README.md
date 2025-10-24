@@ -1,3 +1,5 @@
+Python/README.md
+
 # Python Projects
 
 This folder contains 10 structured Python programs demonstrating control flow, input validation, loops, conditionals, and data analysis concepts. Each file is a standalone exercise completed as part of my technical coursework and showcases practical problem-solving with Python.
