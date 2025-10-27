@@ -53,16 +53,6 @@ My approach blends Agile governance, Lean process optimization, and technical li
 - Deployed Agile sprints via Jira and Asana, increasing predictability by 25% and shortening cycle times by 15%.
 
 ---
-
-### **Grupo Bimbo USA – Data & Operations Project Coordination (Mattoon, IL)**
-**Data & Operations Project Coordinator | Aug 2024 – Present**
-
-- Executed production data pipelines in Oracle to improve real-time data accuracy by 40% across a 9M-unit weekly facility.  
-- Integrated Agile methodologies into manufacturing operations, reducing defect rates by 40% and boosting on-time delivery to 98.4%.  
-- Designed live KPI dashboards that decreased safety incidents by 15% and sustained TRIR below 2.7 (target 2.97).  
-
----
-
 ## Core Competencies
 
 | Project Management | Technical & Analytical | Continuous Improvement |
@@ -89,6 +79,7 @@ My approach blends Agile governance, Lean process optimization, and technical li
 ## Education
 
 **Master of Science in Technology & Management**  - *Eastern Illinois University* |Dec 2025|
+
 **Graduate Certificate in Data Science & Security**  - *Eastern Illinois University* |Dec 2025|
 
 **Bachelor of Arts in Information Studies with Political Science**  
