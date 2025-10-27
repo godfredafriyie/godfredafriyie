@@ -120,6 +120,10 @@ My focus is not just on completing tasks but on driving transformation: aligning
 **[Python Projects](https://github.com/godfredafriyie/python-projects)**  
 A collection of Python projects showing how I apply programming logic to automate workflows, validate KPIs, and drive data-informed delivery as a Technical Project Manager.
 
+### SQL Projects  
+[**View Repository →**](https://github.com/godfredafriyie/sql-projects)  
+Oracle SQL portfolio showcasing database design, governance, and access control for secure project environments — blending technical depth with managerial strategy.
+
 ---
 
 ## Contact
