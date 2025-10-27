@@ -107,7 +107,7 @@ My approach blends Agile governance, Lean process optimization, and technical li
 ## Professional Philosophy
 
 I believe in leading through clarity, accountability, and data.  
-Every project I manage must achieve two goals — **value delivery** and **systemic improvement**.  
+Every project I manage must achieve two goals, **value delivery** and **systemic improvement**.  
 My focus is not just on completing tasks but on driving transformation: aligning business objectives with scalable, technology-driven outcomes.
 
 ---
