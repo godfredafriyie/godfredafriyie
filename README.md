@@ -4,7 +4,7 @@
 
  Illinois, USA  
 [gajunior73@outlook.com](mailto:gajunior73@outlook.com)  
-[LinkedIn](https://linkedin.com/in/godfredjuniorafriyie)
+[LinkedIn](https://www.linkedin.com/in/godfredafriyiejunior/)
 
 ---
 
@@ -127,4 +127,4 @@ A collection of Python projects showing how I apply programming logic to automat
 If you are seeking a **technical project manager** who can bridge strategy and engineering with measurable results, I welcome professional collaboration.
 
 **Email:** [gajunior73@outlook.com](mailto:gajunior73@outlook.com)  
-**LinkedIn:** [linkedin.com/in/godfredjuniorafriyie](https://linkedin.com/in/godfredjuniorafriyie)
+**LinkedIn:** https://www.linkedin.com/in/godfredafriyiejunior/
