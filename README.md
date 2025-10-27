@@ -20,6 +20,20 @@ Throughout my career, I have successfully delivered:
 
 My approach blends Agile governance, Lean process optimization, and technical literacy in SQL, Oracle, AWS, and data analytics to bridge business strategy and technology delivery.
 
+## Companies Worked With
+
+**Grupo Bimbo USA**  
+World’s largest baking company with $20 B in annual revenue and 20 000+ employees across North America; led Oracle-based data operations and Agile process optimization initiatives to improve accuracy and delivery speed by 40%.
+
+**Standard Bank Ghana (Stanbic Bank)**  
+Subsidiary of Africa’s largest banking group with $160 B in assets and operations across 15 markets; delivered a $32 M SaaS modernization integrating Oracle–SAP systems and cut branch traffic by 30%.
+
+**Afrohive**  
+Top 10 creative production and experiential marketing company in West Africa with 40+ staff and regional brand partners; delivered multi-year festival programs scaling attendance 200% and sponsorship revenues 40%.
+
+**FUGO Technologies**  
+Emerging FuelTech startup developing a fuel management and payments SaaS platform; delivered an MVP two weeks early with zero critical bugs and achieved a 30% faster Agile delivery cycle.
+
 ---
 
 ## Key Projects
