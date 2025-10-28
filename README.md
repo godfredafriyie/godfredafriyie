@@ -39,7 +39,7 @@ Emerging FuelTech startup developing a fuel management and payments SaaS platfor
 ## Key Projects
 
 ### **FUGO – Fuel Management & Payments SaaS (Remote, IL)**
-**Freelance Technical Project Manager | Jan 2024 – Present**
+**Freelance Technical Project Manager | Jan 2025 – Present**
 
 - Delivered a FuelTech SaaS MVP two weeks early with zero critical bugs through Agile sprint leadership and structured backlog prioritization.  
 - Achieved a 30% faster sprint cycle and enabled early client validation with transportation partners.  
@@ -59,7 +59,7 @@ Emerging FuelTech startup developing a fuel management and payments SaaS platfor
 ---
 
 ### **Standard Bank Ghana – Commercial Banking SaaS (Accra, Ghana)**
-**Technical Project Manager | Jan 2019 – Dec 2020**
+**Technical Project Manager | Jan 2020 – Dec 2020**
 
 - Delivered a $32M digital transformation program for Africa’s largest bank by integrating Oracle–SAP systems.  
 - Improved data accuracy by 40%, reduced branch traffic by 30%, and accelerated client onboarding by 25%.  
